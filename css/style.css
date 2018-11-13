@@ -3689,7 +3689,7 @@ pre .javascript .function {
   height: 100%;
 }
 .post-toc-shrink {
-  height: 0;
+  /* height: 0; */
   overflow-y: hidden;
 }
 .post-toc-expand {
